@@ -1,0 +1,25 @@
+
+   43  git add
+   44  git add new.py 
+   45  ll
+   46  git init
+   47  git add new.py 
+   48  git commit "my first prgrame"
+   49  git commit -m "my first prgrame"
+   50  ls
+   51  ./new.py 
+   52  ll
+   53  cd
+   54  ls
+   55  exit
+   56  git init
+   57  git add --all
+   58  git status
+   59  git commit -m "test" --author "siva <ak.sakthi1989@gmail.com>"
+   60  git commit -m "test"
+   61  git commit -m "test" --author "siva <ak.sakthi1989@gmail.com>"
+   62  git add remote origin https://github.com/aksakthi/python.git
+   63  git add remote add origin https://github.com/aksakthi/python.git
+   64  git remote add origin https://github.com/aksakthi/python.git
+   65  git push origin -u master
+
